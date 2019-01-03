@@ -34,4 +34,4 @@ spring & mybatis & thymeleaf
 更新日志 : https://www.qyh.me/changelog   
 
 ### 历史版本
- https://gitlab.com/qianyuhao/blog-release
+ https://github.com/mhlx/release
